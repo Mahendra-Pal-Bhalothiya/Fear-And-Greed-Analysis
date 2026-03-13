@@ -31,6 +31,6 @@ The analysis uses two primary datasets:
 1. **Clone the repository**
 
 ```bash
-git clone <repository-url>
+git clone (https://github.com/Mahendra-Pal-Bhalothiya/Fear-And-Greed-Analysis)
 cd crypto-fear-greed-analysis
 ```
